@@ -1,0 +1,50 @@
+ol.meses {
+    background-color: #e6f9e6;
+    border: 2px solid #2e7d32;
+    padding: 20px;
+    width: 250px;
+}
+ol.meses li {
+    color: #1976d2;
+    font-family: Arial, sans-serif;
+}
+ul.estaciones {
+    background-color: #fffde7;
+    border: 2px dashed #fbc02d;
+    padding: 15px;
+    width: 200px;
+}
+ul.estaciones li {
+    color: #f57c00;
+    font-family: Georgia, serif;
+}
+ul.materias {
+    background-color: #f3e5f5;
+    border: 2px solid #8e24aa;
+    padding: 15px;
+    width: 220px;
+}
+ul.materias li {
+    color: #6a1b9a;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+ul.libros {
+    background-color: #e1f5fe;
+    border: 2px dotted #0288d1;
+    padding: 15px;
+    width: 260px;
+}
+ul.libros li {
+    color: #01579b;
+    font-family: Verdana, sans-serif;
+}
+ol.papeleria {
+    background-color: #f9fbe7;
+    border: 2px solid #afb42b;
+    padding: 25px;
+    width: 200px;
+}
+ol.papeleria li {
+    color: #827717;
+    font-family: Tahoma, sans-serif;
+}

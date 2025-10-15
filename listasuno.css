@@ -1,0 +1,18 @@
+/* Estilos para la lista ordenada */
+ol {
+    background-color: #e6f9e6; /* Fondo verde tenue para la lista */
+    border: 2px solid #2e7d32; /* Borde verde de 2px */
+    padding: 25px; /* Espacio interno de 25px */
+    width: 250px; /* Ancho fijo de la lista */
+}
+/* Estilos para cada elemento de la lista */
+li {
+    color: #1976d2; /* Color azul para el texto de los elementos */
+    font-family: Arial, sans-serif; /* Fuente Arial */
+    font-size: 1.1em; /* Tamaño de letra ligeramente mayor al normal */
+}
+/* Estilos para el encabezado h2 */
+h2 {
+    color: #2e7d32; /* Color verde para el título */
+    font-family: Elephant, Arial, sans-serif; /* Fuente Elephant o Arial */
+}
